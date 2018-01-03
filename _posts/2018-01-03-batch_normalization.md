@@ -1,4 +1,4 @@
 batch_normalization:
-# ![](media/15149918269218/15149918505030.jpg)
+![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 
